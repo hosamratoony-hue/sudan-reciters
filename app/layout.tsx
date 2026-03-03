@@ -1,6 +1,6 @@
 export const metadata = {
   title: "Quran Sudani",
-  description: "Sudanese Quran Studio",
+  description: "Sudanese Quran Video Studio",
 };
 
 export default function RootLayout({
