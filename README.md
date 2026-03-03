@@ -1,1 +1,1 @@
-# sudan-reciters
+Quran Sudani Studio - Next.js project
